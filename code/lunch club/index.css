@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+}
+
+#header{
+	width: 100%;
+}
+
+.jumbotron{
+	    background-image: url("https://images.unsplash.com/reserve/E6Ai8EoSQp2unXHEd1GA_GarlicHarvest.jpg?format=auto&auto=compress&dpr=1&crop=entropy&fit=crop&w=1080&h=720&q=80");
+	    width: 100%;
+	    background-repeat: no-repeat;
+	    color: white;
+}
