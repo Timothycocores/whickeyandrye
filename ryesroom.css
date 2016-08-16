@@ -77,3 +77,11 @@ footer{
     height: 100px;
     background-color: black;
 }
+
+.subscribe{
+    padding-left: 200px;
+}
+
+.footerNav{
+    margin-top: -60px;
+}
