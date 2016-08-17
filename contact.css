@@ -119,8 +119,12 @@ div.desc {
 
 .pageContent{
     text-align: center;
+    font-size: 20px;
 }
 
 .headings{
     color: red;
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+
 }
